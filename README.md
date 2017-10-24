@@ -19,8 +19,7 @@ Store players records in vector, reads and writes into a text file.
 
 
 Unfinished Work:
-No Split feature for cards with the same rank
-No Card Cut on shoe, indicate time to shuffling
+Split feature for cards with the same rank. Card cut in the shoe, indicate time to shuffling
 
 Tools used:
 Microsoft Visual Studio 2010
